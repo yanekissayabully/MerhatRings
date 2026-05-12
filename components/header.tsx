@@ -182,7 +182,7 @@
 //         <div className="flex items-center justify-end pr-4 gap-3 h-full">
 //           {/* Mobile phone icon */}
 //           <a
-//             href="tel:+77002437689"
+//             href="tel:+77079623217"
 //             aria-label="Позвонить"
 //             className="md:hidden inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#1c5f67]/40 text-[#1c140a] hover:bg-[#fff7e3]"
 //           >
@@ -199,7 +199,7 @@
 //               transition-all duration-300
 //               transform hover:scale-[1.02] active:scale-100"
 //           >
-//             <a href="tel:+77002437689" className="relative z-10">
+//             <a href="tel:+77079623217" className="relative z-10">
 //               <span className="drop-shadow-[0_1px_1px_rgba(0,0,0,0.2)]">Связаться</span>
 //             </a>
 //           </Button>
@@ -252,7 +252,7 @@ export default function Header() {
     { href: "#contact", label: "Контакты" },
   ]
 
-  const whatsappLink = "https://wa.me/77002437689" // замените на ваш номер
+  const whatsappLink = "https://wa.me/77079623217" // замените на ваш номер
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 w-full bg-white/70 backdrop-blur-md border-b border-[#2a554e] shadow-[0_8px_30px_rgba(42,85,78,0.15)]">

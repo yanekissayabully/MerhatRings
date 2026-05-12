@@ -516,7 +516,7 @@ export default function ProductModal({
   className="rounded-full border-[#1c5f67]/60 px-7 py-3 text-[#1c140a] hover:bg-[#1c5f67]/10"
 >
   <a 
-    href="https://wa.me/77002437689" 
+    href="https://wa.me/77079623217" 
     target="_blank" 
     rel="noopener noreferrer"
   >

@@ -285,7 +285,7 @@
 //               merhat.jew@gmail.com
 //             </a>
 //             <a 
-//               href="tel:+77002437689" 
+//               href="tel:+77079623217" 
 //               className="flex items-center gap-2 hover:text-[#1c5f67] transition-colors"
 //             >
 //               <Phone className="h-4 w-4 text-[#1c5f67]" />
@@ -460,7 +460,7 @@ export default function Contact() {
 
           <div className="mt-5">
             <a
-              href="https://wa.me/77002437689"
+              href="https://wa.me/77079623217"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2.5 w-full rounded-full h-11
@@ -491,7 +491,7 @@ export default function Contact() {
               merhat.jew@gmail.com
             </a>
             <a
-              href="tel:+77002437689"
+              href="tel:+77079623217"
               className="flex items-center gap-2 hover:text-[#1c5f67] transition-colors"
             >
               <Phone className="h-4 w-4 text-[#1c5f67] shrink-0" />

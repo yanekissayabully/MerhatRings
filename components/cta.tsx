@@ -56,7 +56,7 @@ export default function CTA() {
     hover:bg-[#1c5f67]/10"
 >
   <a 
-    href="https://wa.me/77002437689" 
+    href="https://wa.me/77079623217" 
     target="_blank" 
     rel="noopener noreferrer"
   >

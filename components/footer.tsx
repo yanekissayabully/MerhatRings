@@ -9,9 +9,9 @@ export default function Footer() {
     { href: "#contact", label: "Контакты" },
   ]
   const socials = [
-    { href: "https://www.instagram.com/merhat_jewelry/?hl=ru", label: "Instagram", icon: Instagram },
+    { href: "https://www.instagram.com/merhat.gold?igsh=MTc3bXVlMjI4ZG15Zg%3D%3D&utm_source=qr", label: "Instagram", icon: Instagram },
     { href: "https://www.youtube.com/@merhat_jewelry", label: "YouTube", icon: Youtube },
-    { href: "https://wa.me/77002437689", label: "WhatsApp", icon: MessageCircle },
+    { href: "https://wa.me/77079623217", label: "WhatsApp", icon: MessageCircle },
   ]
   return (
     <footer className="mt-20">

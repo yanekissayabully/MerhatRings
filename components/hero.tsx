@@ -365,14 +365,14 @@
 //   className={`${isMobile ? "h-10 min-w-0 w-full" : "h-12 md:h-14 min-w-[180px]"} flex-1 sm:flex-none rounded-full px-4 border-2 border-[#1c5f67] text-[#1c5f67] hover:bg-[#1c5f67]/10 text-center whitespace-nowrap`}
 // >
 //   <a 
-//     href="https://wa.me/77002437689" 
+//     href="https://wa.me/77079623217" 
 //     target="_blank" 
 //     rel="noopener noreferrer"
 //     onClick={(e) => {
 //       // Альтернативный вариант для десктопных приложений
 //       if (navigator.userAgent.includes('WhatsApp')) {
 //         e.preventDefault();
-//         window.open('whatsapp://send?phone=77002437689', '_blank');
+//         window.open('whatsapp://send?phone=77079623217', '_blank');
 //       }
 //     }}
 //   >
@@ -487,11 +487,11 @@ export default function Hero() {
     const isWhatsAppWeb = navigator.userAgent.includes('WhatsApp')
     
     if (isWhatsAppWeb) {
-      window.open('whatsapp://send?phone=77002437689', '_blank')
+      window.open('whatsapp://send?phone=77079623217', '_blank')
     } else if (isMobileDevice) {
-      window.open('https://wa.me/77002437689', '_blank')
+      window.open('https://wa.me/77079623217', '_blank')
     } else {
-      window.open('https://web.whatsapp.com/send?phone=77002437689', '_blank')
+      window.open('https://web.whatsapp.com/send?phone=77079623217', '_blank')
     }
   }
 

@@ -234,7 +234,7 @@ export default function ProductPage() {
               className="w-full lg:w-auto rounded-full bg-[#1c5f67] px-8 py-3 text-white hover:bg-[#1c5f67]/90 text-base lg:text-lg font-semibold"
             >
               <a 
-                href="https://wa.me/77002437689" 
+                href="https://wa.me/77079623217" 
                 target="_blank" 
                 rel="noopener noreferrer"
               >
