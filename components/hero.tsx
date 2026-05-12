@@ -575,17 +575,16 @@ export default function Hero() {
               } max-w-full overflow-hidden`}
             >
               <h1
-                className={`${
-                  isMobile
-                    ? "text-3xl mb-3"
-                    : "text-3xl sm:text-4xl md:text-5xl mb-6"
-                } text-[#1c5f67] leading-tight break-words`}
-                style={{ fontFamily: "var(--font-cormorant)" }}
-              >
-                Кольца RINGS с канадскими бриллиантами и колумбийскими изумрудами в
-Алматы — от 620 000 до 2 500 000 ₸
-
-              </h1>
+  className={`${
+    isMobile
+      ? "text-3xl mb-3"
+      : "text-3xl sm:text-4xl md:text-5xl mb-6"
+  } text-[#1c5f67] leading-tight`}
+  style={{ fontFamily: "var(--font-cormorant)", overflowWrap: "break-word" }}
+>
+  Кольца RINGS с канадскими бриллиантами и колумбийскими изумрудами в Алматы —{" "}
+  <span className="whitespace-nowrap">от 620 000 до 2 500 000 ₸</span>
+</h1>
 
               <p
                 className={`${
